@@ -14,7 +14,7 @@ Awesome list of telematic servers out there.
 make a Pull Request or [Open an Issue](https://github.com/omarcostahamido/awesome-telematic-servers/issues/new) with the following info:
 
 ```
-Location (State, City) - Name/IP - Software stack - [optional] duration - [optional] Contact
+Location (State, City) - Name/IP - Software stack - [optional] date - [optional] Contact
   - [optional] notes
 ```
 
